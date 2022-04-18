@@ -1,13 +1,11 @@
-package com.example.mgmtspring12;
+package com.gdsc.ManagementApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MgmtSpring12Application {
-
+public class ManagementApplication {
     public static void main(String[] args) {
-        SpringApplication.run(MgmtSpring12Application.class, args);
+        SpringApplication.run(ManagementApplication.class, args);
     }
-
 }

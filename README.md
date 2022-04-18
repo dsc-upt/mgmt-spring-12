@@ -1,1 +1,1 @@
-mgmt-spring-12
+GDSCManagementProject
